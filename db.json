@@ -1,0 +1,25 @@
+{
+  "clientes": [
+    {
+      "nombre": "lautaro cantero",
+      "email": "lautaroncantero@gmail.com",
+      "telefono": "4870319",
+      "empresa": "ninguna",
+      "id": 27
+    },
+    {
+      "nombre": "romita",
+      "email": "romita@gmail.com",
+      "telefono": "4870319",
+      "empresa": "dormision",
+      "id": 28
+    },
+    {
+      "nombre": "TOTO",
+      "email": "totoafrica@gmail.com",
+      "telefono": "4870319",
+      "empresa": "african expres",
+      "id": 29
+    }
+  ]
+}
